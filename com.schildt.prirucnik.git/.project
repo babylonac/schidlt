@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>schildt</name>
+	<name>com.schildt.prirucnik.git</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,16 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/schildt/Primer.class</name>
-			<type>1</type>
-			<location>C:/Users/MBM/Desktop/java/Primer.class</location>
-		</link>
-		<link>
-			<name>src/schildt/Primer.java</name>
-			<type>1</type>
-			<location>C:/Users/MBM/Desktop/java/Primer.java</location>
-		</link>
-	</linkedResources>
 </projectDescription>
