@@ -13,7 +13,7 @@ public class PrimerZaChar2 {
 		
 		for (ch1= 'X'; ch1<100; ch1++ )
 		
-		System.out.println("ch1 je sada "+ ch1);
+		System.out.println("ch1 je sada "+ ch1);//
 	}
 
 }
