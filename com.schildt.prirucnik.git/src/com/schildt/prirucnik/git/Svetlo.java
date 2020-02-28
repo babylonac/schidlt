@@ -21,6 +21,6 @@ public class Svetlo {
 	
 	System.out.println("Za " + brojDana);
 	System.out.println("dana svetlost ce preci oko");
-	System.out.println(rastojanje+ " milja" );
+	System.out.println(rastojanje+ " milja" );//
 	}
 }
